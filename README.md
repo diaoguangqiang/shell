@@ -1,2 +1,1 @@
-# shell
-shell脚本
+# shell 添加ssh 
